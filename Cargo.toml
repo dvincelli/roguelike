@@ -1,0 +1,10 @@
+[package]
+name = "roguelike"
+version = "0.1.0"
+authors = ["David Vincelli <david.vincelli@gmail.com>"]
+edition = "2021"
+
+[dependencies]
+rand = "0.8.5"
+strum = "0.25.0"
+strum_macros = "0.25.0"
